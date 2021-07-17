@@ -1,0 +1,31 @@
+.temperature {
+  padding: 10px;
+  margin: 0 auto;
+  background-color: #2d3142;
+  margin-top: 30px;
+  max-width: 230px;
+}
+.subtitle {
+  color: #2d3142;
+}
+.forecast-title {
+  margin-top: 10px;
+  color: #2d3142;
+}
+
+.forecast-day {
+  color: #ff6d00;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.forecast-day .forecast-item {
+  list-style: none;
+}
+
+.warning-message {
+  color: #2d3142;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 60px;
+}
